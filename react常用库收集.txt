@@ -1,0 +1,7 @@
+react-redux
+redux-thunk
+styled-components
+immutable
+antd
+axios
+create-react-app
